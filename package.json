@@ -4,9 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "pnpm --filter=@my-component/* run build",
     "clear": "rimraf 'packages/*/{lib,node_modules}' && rimraf node_modules",
-    "changeset": "changeset"
+    "build": "pnpm --filter=@my-component/* run build",
+    "changeset": "changeset",
+    "changeset-doc": "changeset version",
+    "changeset-publish": "changeset publish"
   },
   "author": "",
   "license": "ISC",
