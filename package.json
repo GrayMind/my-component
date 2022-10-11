@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "clear": "rimraf 'packages/*/{lib,node_modules}' && rimraf node_modules",
-    "build": "pnpm --filter=@my-component/* run build",
+    "build:all": "pnpm run -r build",
     "changeset": "changeset",
-    "changeset-doc": "changeset version",
-    "changeset-publish": "changeset publish"
+    "version": "changeset version",
+    "release": "changeset publish"
   },
   "author": "",
   "license": "ISC",
