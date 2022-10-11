@@ -1,0 +1,11 @@
+{
+  "name": "@my-component/components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "rollup --config"
+  },
+  "author": "",
+  "license": "ISC"
+}
