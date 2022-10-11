@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@my-component/components": "workspace:*"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
   }
 }
