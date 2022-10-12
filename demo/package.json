@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@my-component/business-component": "workspace:*",
+    "@my-component/business-components": "workspace:*",
     "@my-component/utils": "workspace:*"
   }
 }

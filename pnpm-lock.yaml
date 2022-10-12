@@ -14,17 +14,19 @@ importers:
 
   demo:
     specifiers:
-      '@my-component/business-component': workspace:*
+      '@my-component/business-components': workspace:*
       '@my-component/utils': workspace:*
     dependencies:
-      '@my-component/business-component': link:../packages/business-component
+      '@my-component/business-components': link:../packages/business-components
       '@my-component/utils': link:../packages/utils
 
-  packages/business-component:
+  packages/business-components:
     specifiers:
       '@my-component/components': workspace:*
+      '@my-component/utils': workspace:*
     dependencies:
       '@my-component/components': link:../components
+      '@my-component/utils': link:../utils
 
   packages/components:
     specifiers: {}
