@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@my-component/components": "workspace:*",
-    "@my-component/utils": "workspace:*"
+    "@my-component/utils": "workspace:*",
+    "axios": "^1.1.2"
   },
   "publishConfig": {
     "registry": "http://localhost:4873/"

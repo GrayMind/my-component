@@ -19,5 +19,8 @@
   },
   "publishConfig": {
     "registry": "http://localhost:4873/"
+  },
+  "dependencies": {
+    "vue": "^3.2.40"
   }
 }
