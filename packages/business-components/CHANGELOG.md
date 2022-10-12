@@ -1,5 +1,11 @@
 # @my-component/core
 
+## 1.0.1
+
+### Patch Changes
+
+- 包逻辑修改
+
 ## 2.0.1
 
 ### Patch Changes
