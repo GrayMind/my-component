@@ -1,5 +1,16 @@
 # @my-component/core
 
+## 1.0.3
+
+### Patch Changes
+
+- 63a7a1f: 345678
+- 63a7a1f: 12345
+- 825dd87: e
+- Updated dependencies [63a7a1f]
+- Updated dependencies [63a7a1f]
+  - @my-component/components@1.0.2
+
 ## 1.0.3-next.2
 
 ### Patch Changes

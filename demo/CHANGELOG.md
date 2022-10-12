@@ -1,5 +1,14 @@
 # demo
 
+## 1.0.4
+
+### Patch Changes
+
+- Updated dependencies [63a7a1f]
+- Updated dependencies [63a7a1f]
+- Updated dependencies [825dd87]
+  - @my-component/business-components@1.0.3
+
 ## 1.0.4-next.2
 
 ### Patch Changes

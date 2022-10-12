@@ -1,5 +1,12 @@
 # @my-component/components
 
+## 1.0.2
+
+### Patch Changes
+
+- 63a7a1f: 345678
+- 63a7a1f: 12345
+
 ## 1.0.2-next.1
 
 ### Patch Changes
