@@ -5,6 +5,7 @@ function businessComponent() {
   components()
   utils()
   console.log('businessComponent')
+  console.log('businessComponent pre2')
 }
 
 module.exports = businessComponent

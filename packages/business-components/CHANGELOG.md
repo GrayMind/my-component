@@ -1,5 +1,11 @@
 # @my-component/core
 
+## 1.0.3-next.2
+
+### Patch Changes
+
+- e
+
 ## 1.0.3-next.1
 
 ### Patch Changes

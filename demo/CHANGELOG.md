@@ -1,5 +1,12 @@
 # demo
 
+## 1.0.4-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @my-component/business-components@1.0.3-next.2
+
 ## 1.0.4-next.1
 
 ### Patch Changes
