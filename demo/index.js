@@ -1,5 +1,5 @@
-const test2 = require('@my-component/core')
-const toSring = require('@my-component/utils')
+const businessComponent = require('@my-component/business-component')
+const utils = require('@my-component/utils')
 
-test2()
-toSring()
+businessComponent()
+utils()

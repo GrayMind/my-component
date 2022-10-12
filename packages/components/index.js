@@ -1,5 +1,5 @@
-function test1() {
-  console.log('test1 v2')
+function components() {
+  console.log('components')
 }
 
-export default test1
+export default components

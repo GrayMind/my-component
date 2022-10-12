@@ -1,5 +1,5 @@
 {
-  "name": "@my-component/core",
+  "name": "@my-component/business-component",
   "version": "2.0.0",
   "description": "",
   "main": "lib/index.js",

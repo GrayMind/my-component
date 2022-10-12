@@ -1,6 +1,5 @@
-
-function toSring() {
-  console.log('toSring')
+function utils() {
+  console.log('utils')
 }
 
-export default toSring
+export default utils
