@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@my-component/core": "^2.0.0",
-    "@my-component/utils": "workspace:^2.0.0"
+    "@my-component/business-component": "workspace:*",
+    "@my-component/utils": "workspace:*"
   }
 }
