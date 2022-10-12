@@ -1,5 +1,11 @@
 # @my-component/components
 
+## 1.0.1
+
+### Patch Changes
+
+- change files
+
 ## 2.0.1
 
 ### Patch Changes

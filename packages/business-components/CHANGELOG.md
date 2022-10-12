@@ -1,5 +1,14 @@
 # @my-component/core
 
+## 1.0.2
+
+### Patch Changes
+
+- change files
+- Updated dependencies
+  - @my-component/components@1.0.1
+  - @my-component/utils@1.0.1
+
 ## 1.0.1
 
 ### Patch Changes
