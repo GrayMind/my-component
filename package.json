@@ -8,7 +8,7 @@
     "build:all": "pnpm run -r build",
     "changeset": "changeset",
     "version": "changeset version",
-    "release": "changeset publish"
+    "release": "pnpm run build:all && changeset publish"
   },
   "author": "",
   "license": "ISC",

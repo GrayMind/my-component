@@ -1,5 +1,19 @@
 # demo
 
+## 1.0.4-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @my-component/business-components@1.0.3-next.1
+
+## 1.0.4-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @my-component/business-components@1.0.3-next.0
+
 ## 1.0.3
 
 ### Patch Changes

@@ -1,5 +1,17 @@
 # @my-component/components
 
+## 1.0.2-next.1
+
+### Patch Changes
+
+- 345678
+
+## 1.0.2-next.0
+
+### Patch Changes
+
+- 12345
+
 ## 1.0.1
 
 ### Patch Changes

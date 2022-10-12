@@ -1,5 +1,21 @@
 # @my-component/core
 
+## 1.0.3-next.1
+
+### Patch Changes
+
+- 345678
+- Updated dependencies
+  - @my-component/components@1.0.2-next.1
+
+## 1.0.3-next.0
+
+### Patch Changes
+
+- 12345
+- Updated dependencies
+  - @my-component/components@1.0.2-next.0
+
 ## 1.0.2
 
 ### Patch Changes
