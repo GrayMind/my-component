@@ -12,6 +12,14 @@ importers:
       rimraf: 3.0.2
       rollup: 2.79.1
 
+  demo:
+    specifiers:
+      '@my-component/business-component': workspace:*
+      '@my-component/utils': workspace:*
+    dependencies:
+      '@my-component/business-component': link:../packages/business-component
+      '@my-component/utils': link:../packages/utils
+
   packages/business-component:
     specifiers:
       '@my-component/components': workspace:*

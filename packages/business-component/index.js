@@ -1,8 +1,8 @@
-import components from '@my-component/components'
+const components = require('@my-component/components')
 
 function businessComponent() {
   components()
   console.log('businessComponent')
 }
 
-export default businessComponent
+module.exports = businessComponent
