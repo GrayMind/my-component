@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "commit": "cz",
+    "preinstall": "npx only-allow pnpm",
     "clear": "rimraf 'packages/*/{lib,node_modules}' && rimraf node_modules",
     "build:all": "pnpm run -r build",
     "changeset": "changeset",
@@ -14,6 +16,8 @@
   "license": "ISC",
   "devDependencies": {
     "@changesets/cli": "^2.25.0",
+    "commitizen": "^4.2.5",
+    "cz-conventional-changelog": "^3.3.0",
     "rimraf": "^3.0.2",
     "rollup": "^2.79.1"
   },
