@@ -9,7 +9,7 @@ importers:
       '@commitlint/config-conventional': ^17.1.0
       commitizen: ^4.2.5
       cz-conventional-changelog: ^3.3.0
-      husky: ^8.0.1
+      husky: ^8.0.0
       rimraf: ^3.0.2
       rollup: ^2.79.1
       vue: ^3.2.40
